@@ -1,4 +1,4 @@
-baseURL = "https://kegara.github.io/my_launchx_blog/"
+baseURL = "https://kegara.github.io"
 languageCode = "en-us"
 title = "Bitácora de Viaje"
 theme = "hugo-winston-theme"
