@@ -1,6 +1,6 @@
 baseURL = "https://kegara.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje de Kegara"
+title = "Bitácora de Viaje"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
